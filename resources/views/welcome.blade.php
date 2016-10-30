@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel.Osaka!!!
+                    Laravel.Osaka.2016
                 </div>
 
                 <div class="links">
