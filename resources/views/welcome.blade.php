@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel.Osaka
+                    Laravel.Osaka.pipe4
                 </div>
 
                 <div class="links">
