@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel.Osaka.2016
+                    Laravel.Osaka.2016.pipe-test
                 </div>
 
                 <div class="links">
